@@ -1,7 +1,7 @@
 baseurl: '/'
 permalink: pretty
 title: 'Jekyll Serif'
-
+baseurl: "/jekyll-serif-theme/"
 google_analytics_id: ""
 
 homepage:
