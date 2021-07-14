@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Design",
+    "description": "We design lightning protection and earthing systems in accordance with Indian and international standards.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Supply",
+    "description": "We ensure that the material you need reaches you safely and in time.Browse through our product catalogue for more.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Installation",
+    "description": "Our team provides installation services to ensure your building is protected from lightning and electrical faults.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]

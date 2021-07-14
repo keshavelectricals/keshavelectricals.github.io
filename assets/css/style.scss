@@ -3,11 +3,13 @@
 ---
 
 // Colors
-$primary: #E5261F;
+// $primary: #0047ab;
+$primary: #2a52be;
 $secondary: #f88379;
 $black: #2f2f41;
 $white: #ffffff;
-$white-offset: #fff6f8;
+// $white-offset: #fff6f8;
+$white-offset: #edf1fb;
 $steel: #5C5A5A;
 
 // Links
@@ -69,4 +71,17 @@ body {
     font-size: 16px;
     line-height: 1.3;
   }
+}
+h3 {
+//width: 245px;
+//height: 39px;
+//left: 42px;
+//top: 64px;
+font-family: Gemunu Libre ExtraBold;
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 39px;
+
+//color: #000000;
 }
