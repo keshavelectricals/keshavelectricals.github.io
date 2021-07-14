@@ -31,6 +31,12 @@ collections:
   team:
     output: true
 
+  blogs:
+      output: true
+
+  clients:
+      output: true 
+
 sass:
   indentWidth: 4
   style: compact # possible values: nested expanded compact compressed
